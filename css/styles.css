@@ -160,7 +160,7 @@ input[type='text'] {
   color: var(--logo-accent);
 }
 
-.header-button {
+.header-btn {
   font-family: inherit;
   font-weight: 400;
   font-size: 20px;
@@ -179,8 +179,8 @@ input[type='text'] {
   cursor: pointer;
 }
 
-.header-button:hover,
-.header-button:focus {
+.header-btn:hover,
+.header-btn:focus {
   background-color: var(--button-lets-talk-border);
   color: var(--button-color);
 }
@@ -261,7 +261,7 @@ input[type='text'] {
   margin-bottom: 60px;
 }
 
-.hero-button {
+.hero-btn {
   color: var(--button-color);
   background-color: var(--button-bg);
   border: 2px solid var(--button-bg);
@@ -463,7 +463,7 @@ input[type='text'] {
   border-radius: 10px;
 }
 
-.submit-button {
+.submit-btn {
   display: inline-block;
   text-align: center;
 
